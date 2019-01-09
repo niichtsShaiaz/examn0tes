@@ -1,5 +1,5 @@
 
-## Plain JavaScript 
+# 1. Plain JavaScript 
 - Variable/function-Hoisting
 > This means that all variables and functions will be hoisted to the beginning so all references will work. This is making sure no crashes or nullpointer errors occuers in nested functions, function closures, or variables.
 
@@ -11,7 +11,7 @@
 The javascript module pattern is the way that all 'modules' are similar to classes in Java. Since there is no actual classes.
 A module can have private or public variables.
 
-# Express
+## Express
 - Explain Pros & Cons in using Node.js + Express to implement your Backend compared to a strategy using, for example, Java/JAX-RS/Tomcat
 >pro: Super hurtigt, JS only
 Con: single threaded, newer
@@ -23,3 +23,6 @@ Con: single threaded, newer
 expressLogging and Express test
 
 - Compare the express strategy toward (server side) templating with the one you used with Java on second semester and demonstrate a simple Server Side Rendering example using a technology of your own choice
+
+
+**Coding Example:** *ExpressJS / ExpressDEBUG*
